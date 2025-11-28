@@ -3,7 +3,7 @@ import { Ionicons } from "@expo/vector-icons";
 
 import HomeScreen from "../screens/HomeScreen";
 import ChatScreen from "../screens/ChatScreen";
-import SettingsScreen from "../screens/SettingsScreen";
+import ClaimScreen from "../screens/ClaimScreen";
 
 const Tab = createBottomTabNavigator();
 
@@ -29,7 +29,7 @@ export default function TabNavigator() {
 
           if (route.name === "Home") icon = "home";
           else if (route.name === "Chat") icon = "chatbubbles";
-          else if (route.name === "Settings") icon = "settings";
+          else if (route.name === "Claim") icon = "document-text";
 
           return <Ionicons name={icon} size={size} color={color} />;
         },
@@ -37,7 +37,7 @@ export default function TabNavigator() {
     >
       <Tab.Screen name="Home" component={HomeScreen} />
       <Tab.Screen name="Chat" component={ChatScreen} />
-      <Tab.Screen name="Settings" component={SettingsScreen} />
+      <Tab.Screen name="Claim" component={ClaimScreen} />
     </Tab.Navigator>
   );
 }
