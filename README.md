@@ -26,9 +26,9 @@
 
 When disasters strike, misinformation spreads faster than truth. Lives are lost not just from the crisis itself, but from the chaos caused by false information:
 
-- ** Real Impact:** During the 2023 Manipur violence, fake videos sparked communal riots
-- ** Mumbai Floods:** False shelter locations left families stranded in rising waters
-- ** The Statistics:** Misinformation spreads 6x faster than verified information during emergencies
+- **Real Impact:** During the 2023 Manipur violence, fake videos sparked communal riots
+- **Mumbai Floods:** False shelter locations left families stranded in rising waters
+- **The Statistics:** Misinformation spreads 6x faster than verified information during emergencies
 
 **Current solutions fail because:**
 - ❌ Fact-checking websites are too slow (hours/days after damage is done)
@@ -42,10 +42,10 @@ When disasters strike, misinformation spreads faster than truth. Lives are lost 
 
 **CrisisGuard** is a dual-platform system that fights misinformation during crisis situations through:
 
-1. ** Early Detection:** AI agents that catch rumors at their source
-2. ** Predictive Intelligence:** Forecasting which lies will spread before they go viral
-3. ** Crowd Power:** Gamifying truth verification to mobilize citizens
-4. ** Real-Time Response:** Giving authorities tools to respond at the speed of social media
+1. **Early Detection:** AI agents that catch rumors at their source
+2. **Predictive Intelligence:** Forecasting which lies will spread before they go viral
+3. **Crowd Power:** Gamifying truth verification to mobilize citizens
+4. **Real-Time Response:** Giving authorities tools to respond at the speed of social media
 
 ### Two Platforms, One Mission
 
