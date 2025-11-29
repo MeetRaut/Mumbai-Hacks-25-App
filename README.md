@@ -13,9 +13,9 @@
 ### Mobile App (User Platform)
 
 <div align="center">
-  <img src="[./screenshots/mobile-feed.png](https://drive.google.com/file/d/1mH5obcvBdlBIdYb3N0U2ckGGTmC1AZne/view?usp=sharing)" width="250" alt="Anti-Rumor News Feed"/>
-  <img src="./screenshots/mobile-chatbot.png" width="250" alt="Crisis Helper Chatbot"/>
-  <img src="./screenshots/mobile-verification.png" width="250" alt="Gamified Crowd Verification"/>
+  <img src="./data/crisis_feed.jpg" width="250" alt="Anti-Rumor News Feed"/>
+  <img src="./data/chat.jpg" width="250" alt="Crisis Helper Chatbot"/>
+  <img src="./data/claim.jpg" width="250" alt="Gamified Crowd Verification"/>
   
   *Left: Anti-Rumor News Feed | Center: Crisis Helper Chatbot | Right: Gamified Verification*
 </div>
