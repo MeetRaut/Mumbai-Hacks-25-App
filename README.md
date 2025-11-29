@@ -13,26 +13,11 @@
 ### Mobile App (User Platform)
 
 <div align="center">
-  <img src="./screenshots/mobile-feed.png" width="250" alt="Anti-Rumor News Feed"/>
+  <img src="[./screenshots/mobile-feed.png](https://drive.google.com/file/d/1mH5obcvBdlBIdYb3N0U2ckGGTmC1AZne/view?usp=sharing)" width="250" alt="Anti-Rumor News Feed"/>
   <img src="./screenshots/mobile-chatbot.png" width="250" alt="Crisis Helper Chatbot"/>
   <img src="./screenshots/mobile-verification.png" width="250" alt="Gamified Crowd Verification"/>
   
   *Left: Anti-Rumor News Feed | Center: Crisis Helper Chatbot | Right: Gamified Verification*
-</div>
-
-### Authority Dashboard (Web Platform)
-
-<div align="center">
-  <img src="./screenshots/dashboard-overview.png" width="800" alt="Command Dashboard"/>
-  
-  *Command Dashboard: Real-time crisis intelligence and rumor tracking*
-</div>
-
-<div align="center">
-  <img src="./screenshots/narrative-simulator.png" width="400" alt="Narrative Simulator"/>
-  <img src="./screenshots/prediction-engine.png" width="400" alt="Prediction Engine"/>
-  
-  *Left: Narrative Simulator War Game | Right: AI Prediction Engine*
 </div>
 
 ---
