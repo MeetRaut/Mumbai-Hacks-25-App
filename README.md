@@ -1,26 +1,10 @@
-# 🛡️ CrisisGuard: Truth at the Speed of Crisis
+# CrisisGuard: Truth at the Speed of Crisis
 
 <div align="center">
 
-![CrisisGuard Logo](./assets/logo.png)
-
 **An AI-powered dual-platform system to combat misinformation during crisis situations**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Built at MumbaiHacks 2025](https://img.shields.io/badge/Built%20at-MumbaiHacks%202025-blue)](https://mumbaihacks.com)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-
-[Demo Video](#) • [Live Demo](#) • [Documentation](#) • [Report Bug](#) • [Request Feature](#)
-
 </div>
-
----
-
-## 📹 Demo Video
-
-[**DEMO VIDEO PLACEHOLDER**]
-
-*Click above to watch CrisisGuard in action*
 
 ---
 
