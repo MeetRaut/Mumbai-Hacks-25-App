@@ -57,9 +57,9 @@ const VerifyClaimContent = ({ claimId, onBack }) => {
       try {
         const mockData = {
           id,
-          missionBriefing: `Verify reported claim ID ${id} near NESCO Mumbai.`,
+          missionBriefing: `Mumbai Hacks turned violent in NESCO Mumbai.`,
           bounty: 40,
-          distance: "Simulated 0.1 km from your hardcoded location",
+          distance: "0.1 km from your location",
         };
         setClaimData(mockData);
       } catch (e) {

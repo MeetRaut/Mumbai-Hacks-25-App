@@ -24,7 +24,7 @@ const { height } = Dimensions.get("window");
 // 🚨 IMPORTANT: You MUST update this IP address based on your setup:
 // - Android Emulator: 'http://10.0.2.2:8000'
 // - iOS Simulator/Physical Device (Host Machine): 'http://[YOUR_IP_ADDRESS]:8000'
-const API_BASE_URL = "http://192.168.1.102:8000";
+const API_BASE_URL = "http://192.168.43.201:8000";
 
 // Color codes based on sentiment/urgency
 const COLOR_CODES = {

@@ -20,8 +20,8 @@ const INITIAL_RESOURCES = [
 ];
 
 const INITIAL_NEEDS = [
-  { id: 'n1', type: 'need', title: 'Urgent need for Infant Formula', location: 'Disaster Camp 3', contact: 'Sita L.' },
-  { id: 'n2', type: 'need', title: 'Tarp or large plastic sheet', location: 'Near Old Bus Stand', contact: 'Vijay M.' },
+  { id: 'n1', type: 'need', title: 'Urgent need for Infant Formula', location: 'Assam Disaster Camp 3', contact: 'Deepak L.' },
+  { id: 'n2', type: 'need', title: 'Sanitary napkins', location: 'Panvel', contact: 'Sanjeeva Z.' },
 ];
 
 // --- Resource Card ---
