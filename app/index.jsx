@@ -1,5 +1,27 @@
-import { Redirect } from 'expo-router';
+// app/index.jsx
+import React from "react";
+import { NavigationContainer } from "@react-navigation/native";
+import { createNativeStackNavigator } from "@react-navigation/native-stack";
 
-export default function Index() {
-  return <Redirect href="(tabs)/home" />;
+import TabNavigator from "./navigation/TabNavigation";
+import VerifyClaimScreen from "./screens/verify/[id]";
+
+const Stack = createNativeStackNavigator();
+
+export default function App() {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator
+        initialRouteName="Tabs"
+        screenOptions={{ headerShown: false }}
+      >
+        <Stack.Screen name="Tabs" component={TabNavigator} />
+        <Stack.Screen
+          name="VerifyClaim"
+          component={VerifyClaimScreen}
+          options={{ headerShown: true, title: "Verify Claim" }}
+        />
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
 }

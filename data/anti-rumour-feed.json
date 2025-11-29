@@ -1,0 +1,142 @@
+[
+  {
+    "location": "Adai Mountains, Panvel, India",
+    "header": "Wildfire Reported Near Hiking Trail",
+    "timestamp": "2025-11-29T16:42:00",
+    "status": "True",
+    "summary": "Visual evidence confirms a significant smoke plume rising from the canyon northeast of Trippet Ranch. Local fire services notified."
+  },
+  {
+    "location": "Toulouse, France",
+    "header": "Airbus A320 Fleet Grounding Due to Solar Radiation",
+    "timestamp": "2025-11-28T13:30:00",
+    "status": "True",
+    "summary": "Airbus has issued an immediate precautionary action for A320 Family aircraft after finding that intense solar radiation may corrupt flight control data."
+  },
+  {
+    "location": "Sumatra, Indonesia",
+    "header": "Flash Floods and Magnitude 6.6 Earthquake",
+    "timestamp": "2025-11-27T14:00:00",
+    "status": "True",
+    "summary": "A dual disaster struck North Sumatra with deadly flash floods killing 49 people, compounded by a simultaneous offshore earthquake."
+  },
+  {
+    "location": "Hat Yai, Thailand",
+    "header": "Catastrophic Flooding Cuts Power and Communications",
+    "timestamp": "2025-11-26T09:15:00",
+    "status": "True",
+    "summary": "Record rainfall has severed power and phone lines in the southern province. Military airlifts are evacuating critical patients."
+  },
+  {
+    "location": "Colombo, Sri Lanka",
+    "header": "Cyclone Ditwah Landfall Imminent",
+    "timestamp": "2025-11-28T17:30:00",
+    "status": "True",
+    "summary": "Cyclone Ditwah is moving north-northwestward and is expected to hit the Andhra Pradesh coast by November 30. Heavy rainfall warning issued."
+  },
+  {
+    "location": "Washington D.C., USA",
+    "header": "Rumors of Election Integrity Breach in 2026 Primaries",
+    "timestamp": "2025-11-28T10:00:00",
+    "status": "Rumour",
+    "summary": "Social media accounts are circulating debunked claims about early voting machine malfunctions. No official reports confirm these allegations."
+  },
+  {
+    "location": "Khartoum, Sudan",
+    "header": "Escalation of Civil Conflict in Capital",
+    "timestamp": "2025-11-25T08:00:00",
+    "status": "True",
+    "summary": "Renewed fighting between SAF and RSF forces has led to a breakdown in local ceasefires, exacerbating the humanitarian crisis."
+  },
+  {
+    "location": "Kyiv, Ukraine",
+    "header": "New Wave of Infrastructure Drone Strikes",
+    "timestamp": "2025-11-27T03:45:00",
+    "status": "True",
+    "summary": "Multiple energy facilities targeted overnight. Emergency power outages are in effect across three oblasts."
+  },
+  {
+    "location": "Dhaka, Bangladesh",
+    "header": "Protests Over Upcoming 2026 Election Reforms",
+    "timestamp": "2025-11-28T15:20:00",
+    "status": "Unverified",
+    "summary": "Reports of gathering crowds near the university district demanding immediate implementation of the 'July Charter' reforms."
+  },
+  {
+    "location": "San Francisco, USA",
+    "header": "AI-Generated Video of Bridge Collapse Viral",
+    "timestamp": "2025-11-29T11:00:00",
+    "status": "Rumour",
+    "summary": "A realistic video depicting the collapse of the Golden Gate Bridge is circulating. Authorities confirm the bridge is structurally sound and open."
+  },
+  {
+    "location": "North Kivu, DR Congo",
+    "header": "Displacement Crisis Hits 7 Million Mark",
+    "timestamp": "2025-11-20T12:00:00",
+    "status": "True",
+    "summary": "Humanitarian agencies report that conflict has forced a record number of civilians to flee, overwhelming local IDP camps."
+  },
+  {
+    "location": "London, UK",
+    "header": "Water Contamination Scare in East London",
+    "timestamp": "2025-11-29T08:30:00",
+    "status": "Resolved",
+    "summary": "Earlier reports of chemical taste in tap water were investigated. Utility company confirms safe water parameters; verify odor was from harmless pipe maintenance."
+  },
+  {
+    "location": "Tehran, Iran",
+    "header": "Unconfirmed Reports of Cyberattack on Banking Sector",
+    "timestamp": "2025-11-28T22:15:00",
+    "status": "Unverified",
+    "summary": "Users reporting widespread ATM failures. Government officials have not yet issued a statement regarding a potential cyber incident."
+  },
+  {
+    "location": "Mumbai, India",
+    "header": "Claims of Terror Threat at Train Station",
+    "timestamp": "2025-11-29T14:45:00",
+    "status": "Rumour",
+    "summary": "WhatsApp messages warning of an imminent attack at CST station are being shared. Police have clarified this is a hoax recycled from 2023."
+  },
+  {
+    "location": "Central Vietnam",
+    "header": "Catastrophic Agricultural Damage from Floods",
+    "timestamp": "2025-11-23T16:00:00",
+    "status": "True",
+    "summary": "Torrential downpours have inundated over 200,000 homes and destroyed coffee harvests, threatening the regional economy."
+  },
+  {
+    "location": "Seoul, South Korea",
+    "header": "Political Unrest Following Impeachment Vote",
+    "timestamp": "2025-11-29T09:00:00",
+    "status": "True",
+    "summary": "Mass demonstrations are occurring in Gwanghwamun Square following the parliamentary vote to impeach President Yoon Suk-yeol."
+  },
+  {
+    "location": "Mexico City, Mexico",
+    "header": "Volcanic Ash Advisory for Popocatépetl",
+    "timestamp": "2025-11-29T06:30:00",
+    "status": "True",
+    "summary": "Increased volcanic activity has led to ashfall in southern districts. Flights at Benito Juárez International Airport may be delayed."
+  },
+  {
+    "location": "Lagos, Nigeria",
+    "header": "Fuel Shortage Riots Reported in Mainland",
+    "timestamp": "2025-11-28T19:00:00",
+    "status": "Resolved",
+    "summary": "Minor scuffles broke out at gas stations earlier today due to supply chain rumors. Police have restored order and fuel tankers are arriving."
+  },
+  {
+    "location": "Sydney, Australia",
+    "header": "Shark Attack Rumors at Bondi Beach",
+    "timestamp": "2025-11-29T13:15:00",
+    "status": "Rumour",
+    "summary": "Viral TikTok claims a massive shark attack occurred this morning. Surf Life Saving Australia confirms no incidents reported today."
+  },
+  {
+    "location": "Paris, France",
+    "header": "Transport Strike Affecting Metro Lines",
+    "timestamp": "2025-11-29T07:00:00",
+    "status": "True",
+    "summary": "Unannounced walkout by transport union workers has severely reduced service on Metro Lines 1, 4, and 14."
+  }
+]
